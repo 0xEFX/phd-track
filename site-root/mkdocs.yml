@@ -3,6 +3,10 @@ site_name: Probably A PhD Tracker
 theme:
   name: terminal
   palette: gruvbox_dark
+  features:
+    - navigation.side.indexes
+    - navigation.top.cursor_animation.hide
+    - navigation.side.toc.hide
 
 #plugins:
 #   - search
@@ -10,6 +14,7 @@ theme:
 
 nav:
 - Index: index.md
+- How to Research: phd/how_to_research.md
 - Cyclic Innovation:
   - Cyclic Innovation (Index): phd/Cyclic_Innovation/index.md
   - Cyclic Nature: phd/Cyclic_Innovation/Cyclic_nature.md
