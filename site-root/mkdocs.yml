@@ -1,0 +1,13 @@
+site_name: Probably A PhD Tracker
+
+nav:
+  - Home: index.md
+  - Literature:
+      - Overview: literature.md
+  - Experiments:
+      - Section Intro: experiments/index.md
+      - Experiment 1: experiments/exp1.md
+
+theme:
+  name: terminal
+  palette: gruvbox_dark
