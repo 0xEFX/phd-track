@@ -14,7 +14,6 @@ theme:
 
 nav:
 - Index: index.md
-- How to Research: phd/how_to_research.md
 - Cyclic Innovation:
   - Cyclic Innovation (Index): phd/Cyclic_Innovation/index.md
   - Cyclic Nature: phd/Cyclic_Innovation/Cyclic_nature.md
@@ -34,5 +33,8 @@ nav:
   - Init: phd/Dead_Internet_Theory/init.md
   - PoC News Gen: phd/Dead_Internet_Theory/poc_news_gen_flow.md
   - Scratch: phd/Dead_Internet_Theory/scratch.md
+- Misc:
+  - How to Research: phd/Misc/how_to_research.md
+
 
 site_url: https://0xefx.github.io/phd-track/
