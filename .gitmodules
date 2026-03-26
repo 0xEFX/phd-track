@@ -1,0 +1,3 @@
+[submodule "site-root/docs/phd"]
+	path = site-root/docs/phd
+	url = git@github.com:0xEFX/Research.git
